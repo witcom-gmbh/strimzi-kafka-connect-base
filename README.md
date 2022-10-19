@@ -1,5 +1,4 @@
 # strimzi-kafka-connect-base
-============================
 
 Provides a custom-base image for strimzi kafa-connect. KafkaConnect deployments managed by strimzi.io can build their own images (https://strimzi.io/docs/operators/latest/configuring.html#type-Build-schema-reference)
 
